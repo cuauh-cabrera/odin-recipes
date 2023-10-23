@@ -1,5 +1,11 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  <img src="./assets/odin_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+</div>
+
+
 
 <div align="center">
 
